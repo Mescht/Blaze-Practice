@@ -1,0 +1,1 @@
+execute in minecraft:the_nether run data merge block 3 68 -28 {Text3:'{"text":"[Rename]","color":"yellow","clickEvent":{"action":"run_command","value":"function blaze:inventory/rename/rename"}}'}

@@ -1,0 +1,9 @@
+{
+  "values":[
+  "blaze:collision_check/start",
+  "blaze:collision_check/layers/1",
+  "blaze:collision_check/layers/2",
+  "blaze:collision_check/layers/3",
+  "blaze:main"
+  ]
+}

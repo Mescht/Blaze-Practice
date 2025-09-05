@@ -1,0 +1,1 @@
+execute in minecraft:the_nether run data modify block 0 67 -25 Items set from storage blaze:gui pages[0].entries

@@ -1,2 +1,1 @@
-# Blaze-Practice
-
+# Blaze Practive Map

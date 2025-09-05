@@ -1,0 +1,14 @@
+{
+    "values": [
+      "minecraft:barrier",
+      "minecraft:campfire",
+      "minecraft:netherrack",
+      "minecraft:ender_eye",
+      "minecraft:blaze_spawn_egg",
+      "minecraft:tnt",
+      "minecraft:golden_apple",
+      "minecraft:spawner",
+      "minecraft:player_head",
+      "minecraft:name_tag"
+    ]
+  }
