@@ -13,13 +13,14 @@ execute if score editing_loadout flags matches 1 run function blaze:inventory/sa
 function blaze:inventory/loadinv
 effect give @a fire_resistance 120
 gamemode survival @a
-scoreboard players set in_lobby flags 0
 
+scoreboard players set in_lobby flags 0
 scoreboard players set rods blazes 0
 scoreboard players set @a blazes 0
-
 scoreboard players set timer timer 0
 
 kill @e[type=#blaze:remove]
 
 title @a times 5 30 5
+
+function blaze:set_actionbar

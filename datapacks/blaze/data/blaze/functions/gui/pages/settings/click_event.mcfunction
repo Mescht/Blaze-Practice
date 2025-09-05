@@ -11,4 +11,3 @@ execute if score index gui matches 6 run scoreboard players operation blaze_heal
 execute if score index gui matches 7 run scoreboard players operation spawner_timer settings = value gui
 execute if score index gui matches 8 run scoreboard players operation entity_collision settings = value gui
 execute if score index gui matches 9 run scoreboard players operation actionbar settings = value gui
-execute if score index gui matches 9 run function blaze:set_actionbar
