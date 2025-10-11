@@ -6,7 +6,7 @@ Minecraft Map for Practicing the Blaze Spawner Split in Speedruns
 - Loadout Item Randomizer
 - Show Blocked Spawning Spaces
 - Calculate Spawning Potential
-- Terrain Selection
+- Enable / Disable Blaze Spawning
 - ... and more
 
 ## Repair Map
