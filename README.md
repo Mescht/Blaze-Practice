@@ -1,6 +1,14 @@
 # Blaze Practice Map
 Minecraft Map for Practicing the Blaze Spawner Split in Speedruns
 
+## Features
+- Multiple Customizable Loadouts
+- Loadout Item Randomizer
+- Show Blocked Spawning Spaces
+- Calculate Spawning Potential
+- Terrain Selection
+- ... and more
+
 ## Blocked Spawning Spaces / Spawning Potential
 Since maximizing the spawnable area is vital, this map implements a feature to **detect spawning spaces** that are **blocked or too bright** for blazes to spawn. By counting the blocked spaces and weighing them according to the triangular distribution used by the spawner algorithm a **spawning potential** can be calculated which should give a decent overview over how cleared out the spawner is.
 
