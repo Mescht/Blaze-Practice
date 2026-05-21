@@ -1,7 +1,7 @@
 
 # check for resets
-execute as @a[scores={drop_iron_pick=1..}] in minecraft:the_nether run function blaze:reset
-execute as @a[scores={drop_gold_pick=1..}] in minecraft:the_nether run function blaze:reset
+execute as @a[scores={drop_iron_pick=1..}] unless score in_lobby flags matches 1 in minecraft:the_nether run function blaze:reset
+execute as @a[scores={drop_gold_pick=1..}] unless score in_lobby flags matches 1 in minecraft:the_nether run function blaze:reset
 execute as @a[scores={death=1..}] in minecraft:the_nether run function blaze:reset
 execute as @a at @s if block ~ ~ ~-0.3 nether_portal run function blaze:finish
 execute as @a at @s if block ~ ~ ~0.3 nether_portal run function blaze:finish

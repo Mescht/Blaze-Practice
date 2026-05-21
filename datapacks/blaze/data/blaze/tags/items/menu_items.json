@@ -9,6 +9,8 @@
       "minecraft:golden_apple",
       "minecraft:spawner",
       "minecraft:player_head",
-      "minecraft:name_tag"
+      "minecraft:name_tag",
+      "minecraft:lava_bucket",
+      "minecraft:nether_bricks"
     ]
   }
